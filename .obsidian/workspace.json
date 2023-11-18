@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/Models/Neural Network Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/Models/Neural Network Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/Models/Neural Network Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine Learning/Models/Neural Network Algorithms.md"
               }
             }
           }
@@ -147,5 +147,23 @@
     }
   },
   "active": "e73040aa57bd96f0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "Next Sentence Prediction (NSP).md",
+    "Machine Learning/Deep Learning/Transformers.md",
+    "Machine Learning/Deep Learning/Self-Supervised.md",
+    "Machine Learning/Deep Learning/Supervised Fine Tuning.md",
+    "Machine Learning/Deep Learning/Zero-Shot Learning.md",
+    "Machine Learning/Models/Neural Network.md",
+    "Machine Learning/Deep Learning/Deep Learning.md",
+    "Language Processing/NLP/NLP (natural language processing).md",
+    "Machine Learning/Deep Learning/Reinforcement learning.md",
+    "Masked LM (MLM).md",
+    "Language Processing/Train Bert.md",
+    "Language Processing/BERT.md",
+    "Language Processing/Language Models training algorithms.md",
+    "Language Processing/Language Model.md",
+    "Language Processing/Entity Extraction.md",
+    "Language Processing/LLM/Large Language Model.md"
+  ]
 }
