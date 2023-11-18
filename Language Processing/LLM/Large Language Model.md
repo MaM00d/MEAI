@@ -3,7 +3,7 @@ Just a really big [[Language Model]]
 - huge number of [[Model parameters]]
 - Emergent Properties 
 ## Algorithms 
-- Serf-Supervised Learning
+- Self-Supervised Learning
 
 ## using
 - next word predection

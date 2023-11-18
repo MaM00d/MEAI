@@ -1,7 +1,4 @@
 
-
-
-
 - [[Encoder Decoder ML]]
 - [[self attention Nural Network]]
 ## Links
