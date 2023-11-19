@@ -12,6 +12,9 @@
 10. design and develop the web/mobile app
 11. configure the server
 12. configure a voice feature
+
+## Techniques
+- [[Word2Vec]]
 ## Steps
 
 1. [[Tokenization]]
