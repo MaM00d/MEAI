@@ -1,1 +1,0 @@
-It's a branch of [[Machine Learning]] based on [[Neural Network]] Model using more than 1 hidden layer 
