@@ -2,6 +2,8 @@ Supervised Fine Tuning allows a model to adapt to specific tasks or datasets and
 
 The model's parameters are adjusted to minimize the difference between the model's predictions and the actual values in the smaller dataset
 
+-> in supervised fine tunning its better to fine tune a  chat mode, and only train it on a specific topic
+
 Supervised approach:
 1- choosing the fine tuning task --> text generation, classification..
 2- preparing the datasets --> "which expected to be some questions and answers related to our topic...
