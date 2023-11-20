@@ -4,7 +4,7 @@
 يعني انه يسال اسئلة معينة وكدة
 
 ## Ways of: Fine Tuning 
-- [[Self-Supervised]]
+- [[Self-Supervised Learning]]
 - [[Supervised Fine Tuning]]
 - [[Reinforcement learning]]
 
