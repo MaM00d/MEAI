@@ -29,3 +29,8 @@ in supervised we make an attention on the questions, but there is no need to mak
 https://klu.ai/glossary/supervised-fine-tuning
 https://www.youtube.com/watch?v=DMcxxg5iEZQ&ab_channel=TrelisResearch
 https://www.youtube.com/watch?v=3xV_nNl6DCI&ab_channel=AiCore
+
+
+
+
+---Law Rank Adaptor technique..?? 
