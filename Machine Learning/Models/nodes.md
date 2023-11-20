@@ -7,15 +7,8 @@
 ### Non-Linear
 #### Soft-max
   $\text{Softmax}(x_{i}) = \frac{\exp(x_i)}{\sum_j \exp(x_j)}$
-  
-```plotly
-{
-        "data": [{
-            "x":[0, 1, 2],
-            "y":[0, 1, 0]
-        }]
-    }
-```
+
+
 
 #### Sigmoid/Logic  11-Function
 ##### Equation 
