@@ -2,18 +2,29 @@
 ## Activation Functions
 
 ### Step-Function/threshold 
+$$
+\text{F}(x) =
+\begin{cases} 
+      1 & x\leq 0 
+      \\
+      0 & x\geq 0 
+\end{cases}
+$$
+![[nodes-20231120140409278.webp|219]]
 ### Linear
-![[nodes-20231120140409278.webp|208]]
 
+$$\text{F}(x) = x$$
+  
+![[nodes-20231120141152171.webp|227]]
 ### Non-Linear
 #### Soft-max
 
-  $\text{Softmax}(x_{i}) = \frac{\exp(x_i)}{\sum_j \exp(x_j)}$
+  $$\text{Softmax}(x_{i}) = \frac{\exp(x_i)}{\sum_j \exp(x_j)}$$
   
   
 #### Sigmoid/Logic  11-Function
 ##### Equation 
-$\sigma(z) = \frac{1} {1 + e^{-z}}$
+$$\sigma(z) = \frac{1} {1 + e^{-z}}$$
 
 ![[nodes-20231120140120487.webp|225]]
 
