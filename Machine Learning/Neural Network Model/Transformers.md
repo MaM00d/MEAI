@@ -1,4 +1,4 @@
-
+![[Transformers-20231121115032501.webp|433]]
 - [[Encoder Decoder ML]]
 - [[self attention Nural Network]]
 ## Links
