@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Deep Learning/parameters training methods.md",
+                "file": "Machine Learning/Neural Network Model/Supervised Fine Tuning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Deep Learning/parameters training methods.md",
+                "file": "Machine Learning/Neural Network Model/Supervised Fine Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Deep Learning/parameters training methods.md",
+                "file": "Machine Learning/Neural Network Model/Supervised Fine Tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/parameters training methods.md"
+                "file": "Machine Learning/Neural Network Model/Supervised Fine Tuning.md"
               }
             }
           }
@@ -148,32 +148,38 @@
   },
   "active": "e73040aa57bd96f0",
   "lastOpenFiles": [
-    "Machine Learning/Deep Learning/Supervised Fine Tuning.md",
-    "Machine Learning/Deep Learning/Fine tuning.md",
-    "Machine Learning/Deep Learning/Self-Supervised.md",
-    "Language Processing/NLP/Hugging Face.md",
-    "Language Processing/NLP/Chunking.md",
-    "Language Processing/BERT.md",
-    "Language Processing/NLP/Untitled",
-    "Machine Learning/Deep Learning/Recurrent Neural Network.md",
-    "Machine Learning/Models/Neural Network Algorithms.md",
-    "Machine Learning/Deep Learning/Transformers.md",
-    "Long Short-Term Memory Network.md",
-    "Language Processing/Language Models training algorithms.md",
-    "Language Processing/LLM/Large Language Model.md",
-    "Language Processing/Language Model.md",
-    "Model parameters.md",
-    "Machine Learning/Deep Learning/parameters training methods.md",
-    "parameter training method.md",
-    "Language Processing/Train Bert.md",
-    "Language Processing/Entity Extraction.md",
-    "Language Processing/NLP/NLP (natural language processing).md",
+    "Machine Learning/Neural Network Model/Supervised Learning.md",
+    "Machine Learning/Neural Network Model/Un-Supervised Learning.md",
+    "Machine Learning/Neural Network Model/Self-Supervised Learning.md",
+    "Machine Learning/Neural Network Model/Supervised Fine Tuning.md",
+    "Machine Learning/Deep Learning.md",
+    "Machine Learning/Neural Network Model/Fine tuning.md",
+    "Machine Learning/Neural Network Model/Neural Network Algorithms.md",
+    "Machine Learning/Neural Network Model/imgs/nodes-20231120143514643.webp",
+    "Machine Learning/Neural Network Model/imgs/nodes-20231120142828353.webp",
+    "Machine Learning/Neural Network Model/imgs/nodes-20231120141152171.webp",
+    "Machine Learning/Neural Network Model/imgs/nodes-20231120140409278.webp",
+    "Machine Learning/Neural Network Model/imgs/nodes-20231120140120487.webp",
+    "Machine Learning.md",
     "Masked LM (MLM).md",
-    "Machine Learning/Deep Learning/Zero-Shot Learning.md",
-    "Machine Learning/Deep Learning/Reinforcement learning.md",
-    "Machine Learning/Deep Learning/Deep Learning.md",
-    "Machine Learning/Deep Learning/Encoder Decoder ML.md",
-    "README.md",
-    "Next Sentence Prediction (NSP).md"
+    "Machine Learning/Models/Neural Network.md",
+    "Machine Learning/Neural Network Model/Zero-Shot Learning.md",
+    "Machine Learning/Neural Network Model/Transformers.md",
+    "Machine Learning/Neural Network Model/Semi-Supervised Learning.md",
+    "Machine Learning/Neural Network Model/self attention Nural Network.md",
+    "Machine Learning/Neural Network Model/Reinforcement learning.md",
+    "Machine Learning/Neural Network Model/Recurrent Neural Network.md",
+    "Machine Learning/Neural Network Model/parameters training methods.md",
+    "Machine Learning/Neural Network Model/output layer.md",
+    "Machine Learning/Neural Network Model/nodes.md",
+    "Machine Learning/Neural Network Model/Neural Network.md",
+    "Machine Learning/Neural Network Model/Layers.md",
+    "Machine Learning/Neural Network Model/imgs",
+    "Machine Learning/Neural Network Model/Encoder Decoder ML.md",
+    "Machine Learning/Neural Network Model/embedding layers.md",
+    "Machine Learning/Neural Network Model",
+    "Machine Learning/Models/Neural Network Algorithms.md",
+    "Long Short-Term Memory Network.md",
+    "Language Processing/NLP/Untitled"
   ]
 }
