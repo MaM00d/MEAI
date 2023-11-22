@@ -8,3 +8,7 @@
 
 ![[Long Short-Term Memory Network-20231121141237205.webp|531]]
 ![[Long Short-Term Memory Network-20231121141501249.webp|535]]
+
+
+## Links
+- [[LSTM] Applying and Understanding Long Short-term Memory in Python - YouTube](https://www.youtube.com/watch?v=rmxogwIjOhE)i

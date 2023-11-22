@@ -29,3 +29,4 @@ $$
 ## Links 
 - [Comparing Natural Language Processing Techniques: RNNs, Transformers, BERT - KDnuggets](https://www.kdnuggets.com/comparing-natural-language-processing-techniques-rnns-transformers-bert)
 - [CS 230 - Recurrent Neural Networks Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- [[RNN] Applying and Understanding Recurrent Neural Networks in Python - YouTube](https://www.youtube.com/watch?v=FBlPZJrJt9g)
