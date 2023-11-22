@@ -31,6 +31,12 @@ https://www.youtube.com/watch?v=DMcxxg5iEZQ&ab_channel=TrelisResearch
 https://www.youtube.com/watch?v=3xV_nNl6DCI&ab_channel=AiCore
 
 
+preparing Datasets from raw text:
+
+https://www.youtube.com/watch?v=fYyZiRi6yNE&ab_channel=AemonAlgiz
+"https://github.com/Aemon-Algiz/DatesetExtraction/tree/main"
+
+https://www.youtube.com/watch?v=JJ5mcdEIbj8&ab_channel=TrelisResearch
 
 
 ---Law Rank Adaptor technique..?? 
