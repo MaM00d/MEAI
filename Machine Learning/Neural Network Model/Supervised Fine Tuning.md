@@ -39,4 +39,4 @@ https://www.youtube.com/watch?v=fYyZiRi6yNE&ab_channel=AemonAlgiz
 https://www.youtube.com/watch?v=JJ5mcdEIbj8&ab_channel=TrelisResearch
 
 
----Law Rank Adaptor technique..?? 
+

@@ -15,3 +15,5 @@
 - [Activation Functions | Deep Learning Tutorial 8 (Tensorflow Tutorial, Keras & Python) - YouTube](https://www.youtube.com/watch?v=icZItWxw7AI)
 - [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)
 - [Classical ML Equations in LaTeX](https://blmoistawinde.github.io/ml_equations_latex/)
+- https://www.youtube.com/watch?v=tYFO434Lpm0&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX&index=8&ab_channel=AssemblyAI
+
