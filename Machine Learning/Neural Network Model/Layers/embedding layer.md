@@ -12,6 +12,22 @@ vector representing the word
 --> Embedding Space :
 is where your embedded data lives..
 المسافه بين نقطتين فيه بتوضح مدى تشابه الكلمتين دول ف المعنى
+
+
+
+
+
+-->input embeddings to bert :
+*positional encoding*
+بيحدد مكان كل كلمة في ال جمله الواحده
+
+*sentence encoding*
+لو في اكتر من جمله بيحدد مكان الكلمات بالنسبه للجمله الواحده و مثلا علاقة كل جملة بالتانيه و اماكنهم بالنسبة لبعض
+
+*token encoding*
+تمثيل كل كلمة برقم معين
+
+
 ## Links
 [244 - What are embedding layers in keras? - YouTube](https://www.youtube.com/watch?v=nam2zR7p7Os)
 
