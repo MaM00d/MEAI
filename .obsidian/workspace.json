@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigmoid-Logic  11-Function.md",
+                "file": "Machine Learning/Neural Network Model/Layers/embedding layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigmoid-Logic  11-Function.md",
+                "file": "Machine Learning/Neural Network Model/Layers/embedding layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sigmoid-Logic  11-Function.md",
+                "file": "Machine Learning/Neural Network Model/Layers/embedding layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigmoid-Logic  11-Function.md"
+                "file": "Machine Learning/Neural Network Model/Layers/embedding layer.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "e73040aa57bd96f0",
   "lastOpenFiles": [
+    "Machine Learning/Neural Network Model/hidden layers.md",
+    "Machine Learning/Neural Network Model/Layers/embedding layer.md",
     "Machine Learning/Neural Network Model/nodes.md",
     "Sigmoid-Logic  11-Function.md",
     "ReLU.md",
     "Machine Learning/Neural Network Model/imgs/Feed-Forward Neural Network-20231121135159749.webp",
     "Machine Learning/Neural Network Model/imgs/Feed-Forward Neural Network-20231121134958290.webp",
-    "Machine Learning/Neural Network Model/hidden layers.md",
     "Machine Learning/Neural Network Model/Tanh.md",
     "Machine Learning/Neural Network Model/Step-Function-threshold.md",
     "Machine Learning/Neural Network Model/Soft-max.md",
     "Machine Learning/Neural Network Model/Sigmoid-Logic  11-Function.md",
     "Machine Learning/Neural Network Model/Supervised Fine Tuning.md",
-    "Machine Learning/Neural Network Model/Layers/embedding layer.md",
     "Machine Learning/Neural Network Model/output layer.md",
     "Machine Learning/Neural Network Model/imgs/Recurrent Neural Network-20231121140645399.webp",
     "Machine Learning/Neural Network Model/imgs/Recurrent Neural Network-20231121135452785.webp",
