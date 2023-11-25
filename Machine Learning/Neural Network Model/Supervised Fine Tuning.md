@@ -4,14 +4,14 @@ The model's parameters are adjusted to minimize the difference between the model
 
 -> in supervised fine tunning its better to fine tune a  chat mode, and only train it on a specific topic
 
-Supervised approach:
-1- choosing the fine tuning task --> text generation, classification..
-2- preparing the datasets --> "which expected to be some questions and answers related to our topic...
-"prompt":------------
-"completion": ---------------   " 
-3- choose the base model --> "arabert"
-4- fine tune the model using the supervised approach -->"[[parameters training methods]]"  
-5- evaluate the performance 
+## Approachs
+1. choosing the fine tuning task --> text generation, classification..
+2. preparing the datasets --> "which expected to be some questions and answers related to our topic...
+	- "prompt":------------
+	- "completion": ---------------   " 
+3. choose the base model --> "arabert"
+4. fine tune the model using the supervised approach -->"[[parameters training methods]]"  
+5. evaluate the performance 
 
 ------------------------------------------
 Attention (0,1):
@@ -25,18 +25,14 @@ Loss mask (0,1):
 in supervised we make an attention on the questions, but there is no need to make a loss mask on the question, because here we are focusing on training the model on predicting the answer and increasing the answer's performance
 -> focusing also on the end token, which telling the model where to stop predicting...
 
-
-https://klu.ai/glossary/supervised-fine-tuning
-https://www.youtube.com/watch?v=DMcxxg5iEZQ&ab_channel=TrelisResearch
-https://www.youtube.com/watch?v=3xV_nNl6DCI&ab_channel=AiCore
-
-
-preparing Datasets from raw text:
-
-https://www.youtube.com/watch?v=fYyZiRi6yNE&ab_channel=AemonAlgiz
-"https://github.com/Aemon-Algiz/DatesetExtraction/tree/main"
-
-https://www.youtube.com/watch?v=JJ5mcdEIbj8&ab_channel=TrelisResearch
+## Links
+- [What is supervised fine-tuning? — Klu](https://klu.ai/glossary/supervised-fine-tuning)
+- [Embeddings vs Fine Tuning - Part 2, Supervised Fine-tuning - YouTube](https://www.youtube.com/watch?v=DMcxxg5iEZQ&ab_channel=TrelisResearch)
+- [Lecture 8: How ChatGPT Works Part 1 - Supervised Fine-Tuning - YouTube](https://www.youtube.com/watch?v=3xV_nNl6DCI&ab_channel=AiCore)
+### preparing Datasets from raw text:
+- [How To Create Datasets for Finetuning From Multiple Sources! Improving Finetunes With Embeddings. - YouTube](https://www.youtube.com/watch?v=fYyZiRi6yNE&ab_channel=AemonAlgiz)
+- [GitHub - Aemon-Algiz/DatesetExtraction: Example code for extracting Q&A datasets from LLM's](https://github.com/Aemon-Algiz/DatesetExtraction/tree/main)
+- [Prepare Fine-tuning Datasets with Open Source LLMs - YouTube](https://www.youtube.com/watch?v=JJ5mcdEIbj8&ab_channel=TrelisResearch)
 
 
 
