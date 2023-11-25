@@ -5,6 +5,9 @@
 - [[]]
 - [[GAN]]
 - [[Auto-encoders]]
+- [[self-predection]]
+- [[contrastive learning]]
+- 
 
 
 
