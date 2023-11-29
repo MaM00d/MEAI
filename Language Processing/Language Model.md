@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 [[Language Models training algorithms]]
 

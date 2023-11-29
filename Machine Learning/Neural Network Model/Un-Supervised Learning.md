@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 يتعلم من غير ما اديله نتيجة بيعرف لوحده
 
 in unsupervised fine tuning " here it can use a base model not a chat model", and it is not important to give it a (Q,A) dataset,

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 $$
 \text F{(x)} = \frac{e^{-z} - e^{-z}} {e^{-z} + e^{-z}}

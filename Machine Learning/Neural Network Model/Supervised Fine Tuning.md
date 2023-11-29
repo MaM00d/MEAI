@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Supervised Fine Tuning allows a model to adapt to specific tasks or datasets and improving its performance on those tasks by changing model parameters ..
 
 The model's parameters are adjusted to minimize the difference between the model's predictions and the actual values in the smaller dataset

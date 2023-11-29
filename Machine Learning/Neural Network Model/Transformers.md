@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ![[Transformers-20231121115032501.png|548]]
 ## [[Attention]]
 

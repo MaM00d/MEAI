@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Artificial neural networks are a branch of [[Machine Learning]]
 
 ## Neurons

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 ##### Equation 
 $$\sigma(z) = \frac{1} {1 + e^{-z}}$$

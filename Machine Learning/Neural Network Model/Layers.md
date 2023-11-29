@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Layers are just neurons next to each other 
 - All neurons in the same layer takes the same input 

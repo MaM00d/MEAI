@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Just a really big [[Language Model]]
 - huge number of [[Model parameters]]
