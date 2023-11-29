@@ -1,3 +1,6 @@
+---
+dg-publish: false
+---
 بتاخد الترتيب في الاعتبار 
 في وزن بيعمل حساب الترتيب
 
@@ -10,18 +13,18 @@ y{<t>} = g_2(W_{ya}a^{<t>}+b_y)
 $$
 
 ## Encoders
-![[Recurrent Neural Network-20231121140626386.webp|484]]
-![[Recurrent Neural Network-20231121140645399.webp]]
+![[Recurrent Neural Network-20231121140626386.png|484]]
+![[Recurrent Neural Network-20231121140645399.png]]
 
 ## Decoders
-![[Recurrent Neural Network-20231121140743279.webp|579]]
+![[Recurrent Neural Network-20231121140743279.png|579]]
 
 
-![[Recurrent Neural Network-20231121135452785.webp|735]]
+![[Recurrent Neural Network-20231121135452785.png|735]]
 
 
 
-![[Recurrent Neural Network-20231121135321263.webp|445]]
+![[Recurrent Neural Network-20231121135321263.png|445]]
 
 
 

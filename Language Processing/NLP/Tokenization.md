@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 حول كلمات او حروف او اجزاء كلمات لارقام تعرفها
 Types?
 Which Type we will use?

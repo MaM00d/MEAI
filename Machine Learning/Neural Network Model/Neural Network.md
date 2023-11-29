@@ -1,4 +1,7 @@
-Artificial neural networks are a branch of [[Machine Learning Models]]
+---
+dg-publish: true
+---
+Artificial neural networks are a branch of [[Machine Learning]]
 
 ## Neurons
 - summation of all the inputs each input * the weight + the bias 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Tasks
 1. Read the already made projects

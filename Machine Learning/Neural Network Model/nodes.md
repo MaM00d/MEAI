@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Activation Functions
 
@@ -7,7 +10,7 @@
 #### [[Soft-max]]
 #### [[Sigmoid-Logic  11-Function]]
 #### [[Tanh]]
-#### [[ReLU]]
+#### [[AI/Machine Learning/Neural Network Model/ReLU]]
 
 
 ## Links

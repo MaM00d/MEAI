@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 - Retrain all parameters
     its a hard task that need large computations..
